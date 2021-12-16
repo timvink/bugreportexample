@@ -1,3 +1,5 @@
+*Update*: Fixed in https://github.com/rosscdh/mkdocs-markdownextradata-plugin/issues/37
+
 Reporting bug:
 
 
